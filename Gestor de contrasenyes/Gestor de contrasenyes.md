@@ -1,5 +1,6 @@
 
-FASE 2
+## FASE 2
+
 Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
 ![alt text](image.png)
 
